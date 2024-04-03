@@ -4,6 +4,7 @@ import Socile from "../Home/Socile";
 import Date from "../Home/Date";
 import ScrollReveal from "scrollreveal";
 import { useEffect } from "react";
+import abdessmad from '../../images/ABDESSAMAD .png'
 function Home() {
   useEffect(() => {
     let sr = ScrollReveal({
@@ -26,7 +27,7 @@ function Home() {
         <div className="container grid home__container">
           <div className="grid home__content">
             <Socile></Socile>
-            <div className="home__img"></div>
+            <img className="home__img" src={abdessmad}></img>
             <Date></Date>
           </div>
           
