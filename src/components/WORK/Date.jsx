@@ -15,10 +15,10 @@ export const projectsData = [
     id: 1,
     image: Work1,
     title: "Gym-Website",
+    link:"https://website-gym.netlify.app/",
 
     category: "Web",
 
-  
   },
   {
     id: 2,
