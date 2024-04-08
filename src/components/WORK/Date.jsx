@@ -5,10 +5,11 @@ import Work4 from '../../assets/shop.png'
 import Work5 from '../../assets/WorldCupQata.png'
 import Work6 from '../../assets/BUREAU.png'
 import Work7 from '../../assets/youtbue.png'
-import Work8 from '../../assets/MOTO.png'
+import Work8 from '../../assets/Moto.png'
 import Work9 from '../../assets/Quran.jpeg'
 import Work10 from '../../assets/clen.jpeg'
 import Work11 from '../../assets/Futuristic.png'
+import  Work12 from '../../assets/Grey Minimalist Classic Real Estate Mockup Instagram Post (1).png'
 
 export const projectsData = [
   {
@@ -90,6 +91,12 @@ export const projectsData = [
     title: "Personal design",
     category: "Design",
   },
+  {
+  id: 12,
+  image: Work12,
+  title: "App Pizza dessign",
+  category: "Design",
+},
 ];
 export const  projectsNav=[
 {
